@@ -1,0 +1,10 @@
+This log contains debugging and error messages from the last run.
+Traceback (most recent call last):
+  File "PyWright.py", line 46, in <module>
+  File "core\libengine.py", line 32, in run
+  File "core\libengine.py", line 233, in update
+  File "core\input.py", line 19, in get
+  File "core\input.py", line 59, in checkForQuit
+  File "core\input.py", line 66, in terminate
+SystemExit
+

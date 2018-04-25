@@ -1,0 +1,37 @@
+This log contains debugging and error messages from all runs.
+Traceback (most recent call last):
+  File "PyWright.py", line 46, in <module>
+  File "core\libengine.py", line 28, in run
+  File "core\logic.py", line 42, in update
+  File "core\input.py", line 20, in get
+  File "core\input.py", line 60, in checkForQuit
+  File "core\input.py", line 67, in terminate
+SystemExit
+
+This log contains debugging and error messages from all runs.
+Traceback (most recent call last):
+  File "PyWright.py", line 46, in <module>
+  File "core\libengine.py", line 27, in run
+  File "core\logic.py", line 41, in update
+  File "core\input.py", line 19, in get
+  File "core\input.py", line 59, in checkForQuit
+  File "core\input.py", line 66, in terminate
+SystemExit
+
+This log contains debugging and error messages from all runs.
+Traceback (most recent call last):
+  File "PyWright.py", line 46, in <module>
+  File "core\libengine.py", line 39, in run
+  File "core\libengine.py", line 216, in __init__
+error: Couldn't open assets/ui/credits/coder.png
+
+This log contains debugging and error messages from all runs.
+Traceback (most recent call last):
+  File "PyWright.py", line 46, in <module>
+  File "core\libengine.py", line 32, in run
+  File "core\libengine.py", line 233, in update
+  File "core\input.py", line 19, in get
+  File "core\input.py", line 59, in checkForQuit
+  File "core\input.py", line 66, in terminate
+SystemExit
+
